@@ -24,84 +24,84 @@
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> .
 
-<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/10>
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/20>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "20" ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "gehuwd"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> .
 
-<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/10>
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/25>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "25" ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "nietigverklaring van het huwelijk"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> .
 
-<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/10>
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/26>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "26" ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "putatief huwelijk "@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> .
 
-<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/10>
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/30>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "30" ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "weduwnaar (weduwe)"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> .
 
-<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/10>
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/40>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "40" ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "gescheiden"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> .
 
-<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/10>
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/41>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "41" ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "echtscheiding uitgesproken met toepassing van de wet van 30 juni 1994"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> .
 
-<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/10>
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/50>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "50" ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "scheiding van tafel en bed en van goederen "@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> .
 
-<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/10>
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/51>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "51" ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "scheiding van tafel en bed en van goederen uitgesproken met toepassing van de wet van 30 juni 1994"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> .
 
-<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/10>
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/60>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "60" ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "ontbinding van het huwelijk op een bijzondere wijze"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> .
 
-<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/10>
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/80>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "80" ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "partnerschap"@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> .
 
-<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/10>
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/81>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "81" ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "beëindiging partnerschap "@nl ;
     <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> ;
     <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-BurgerlijkeStaatType> .
 
-<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/10>
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-BurgerlijkeStaatType/90>
     a <http://www.w3.org/2004/02/skos/core#Concept> ;
     <http://www.w3.org/2004/02/skos/core#notation> "90" ;
     <http://www.w3.org/2004/02/skos/core#prefLabel> "onbepaald"@nl ;
