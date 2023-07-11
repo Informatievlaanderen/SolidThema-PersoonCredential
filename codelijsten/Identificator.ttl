@@ -1,0 +1,21 @@
+<https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-Identificator>
+    a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+    <http://purl.org/dc/terms/modified> "2023-07-01" ;
+    <http://www.w3.org/2004/02/skos/core#definition> "Mogelijke identificatoren voor een persoon."@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Identificator"@nl ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Persooncredential-Identificator/WebID> ;
+    <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://solid.data.vlaanderen.be/id/concept/Persooncredential-Identificator/INSZ> .
+        
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-Identificator/WebID>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "WebID"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "WebID"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-Identificator> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-Identificator> .
+
+<https://solid.data.vlaanderen.be/id/concept/Persooncredential-Identificator/INSZ>
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#notation> "INSZ"@nl ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "INSZ"@nl ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-Identificator> ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://solid.data.vlaanderen.be/id/conceptscheme/Persooncredential-Identificator> .
