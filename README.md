@@ -1,1 +1,1 @@
-# SolidThema-PersoonCredential
+# SolidThema-persooncredential
